@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: com.fluxtion.nb.visualiser/1
+OpenIDE-Module-Implementation-Version: 5
+OpenIDE-Module-Localizing-Bundle: com/fluxtion/nb/visualiser/Bundle.properties
+
